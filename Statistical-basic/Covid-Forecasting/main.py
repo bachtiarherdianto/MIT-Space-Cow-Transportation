@@ -1,7 +1,5 @@
 import pandas as pd, matplotlib.pyplot as plt
 
-
-
 confirmed = pd.read_csv('confirmed.csv')
 deaths = pd.read_csv('death.csv')
 recovered = pd.read_csv('recovered.csv')
