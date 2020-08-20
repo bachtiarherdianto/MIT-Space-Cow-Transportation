@@ -136,5 +136,5 @@ theFeatures = ['radius_mean', 'radius_sd_error','radius_worst', 'texture_mean', 
 #     plt.xticks(fontsize=20)
 #     plt.yticks(fontsize=20)
 #
+#
 # plt.tight_layout()
-# https://github.com/mGalarnyk/Python_Tutorials/blob/master/Kaggle/BreastCancerWisconsin/.ipynb_checkpoints/centralTendency-checkpoint.ipynb
